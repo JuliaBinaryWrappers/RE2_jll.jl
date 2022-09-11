@@ -1,0 +1,288 @@
+[[RE2]]
+arch = "aarch64"
+git-tree-sha1 = "92c3d9c8bd59e9f113583fdc06eecdbdfb1358de"
+os = "macos"
+
+    [[RE2.download]]
+    sha256 = "2d2495503da2d34c4febc90ba92a0f85d1d9f7edc060a158da04b82416ac1d08"
+    url = "https://github.com/JuliaBinaryWrappers/RE2_jll.jl/releases/download/RE2-v2022.6.1+0/RE2.v2022.6.1.aarch64-apple-darwin.tar.gz"
+[[RE2]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "8f6ab527dead0cbea623e675e937cd5df27b49b2"
+libc = "glibc"
+os = "linux"
+
+    [[RE2.download]]
+    sha256 = "a901dacfc96a5a0ee4c25c8e7841abc4eae0adee38e6c7283a68c38eb9768431"
+    url = "https://github.com/JuliaBinaryWrappers/RE2_jll.jl/releases/download/RE2-v2022.6.1+0/RE2.v2022.6.1.aarch64-linux-gnu-cxx03.tar.gz"
+[[RE2]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "59dc3f549c323ae594ebf4b0179dfac963024c6e"
+libc = "glibc"
+os = "linux"
+
+    [[RE2.download]]
+    sha256 = "0d015155239b497a4a7be27c1c0f673d507fee7115b4cfa8a58c8e14ae154406"
+    url = "https://github.com/JuliaBinaryWrappers/RE2_jll.jl/releases/download/RE2-v2022.6.1+0/RE2.v2022.6.1.aarch64-linux-gnu-cxx11.tar.gz"
+[[RE2]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "f1086a76c74a6f4c66294bdc73021af3f66b5a37"
+libc = "musl"
+os = "linux"
+
+    [[RE2.download]]
+    sha256 = "2a1f0931303393a0ccd15d742533db90a1cde4004ee0af5789304dad9393d283"
+    url = "https://github.com/JuliaBinaryWrappers/RE2_jll.jl/releases/download/RE2-v2022.6.1+0/RE2.v2022.6.1.aarch64-linux-musl-cxx03.tar.gz"
+[[RE2]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "138aa44d9f4d52ffe1e9f272ac4edb8cf87f7164"
+libc = "musl"
+os = "linux"
+
+    [[RE2.download]]
+    sha256 = "6ccebbd377663bed54535c4478df91268e5f702a2662fe0d9f31fb5e4ba5cbd9"
+    url = "https://github.com/JuliaBinaryWrappers/RE2_jll.jl/releases/download/RE2-v2022.6.1+0/RE2.v2022.6.1.aarch64-linux-musl-cxx11.tar.gz"
+[[RE2]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "5646c4218501de562d76f4122cb00d7a5abc1b15"
+libc = "glibc"
+os = "linux"
+
+    [[RE2.download]]
+    sha256 = "348e6e98157f8360b487a4780f4332a8a8f9d6e340dc3207ba32ddecc6ecaaea"
+    url = "https://github.com/JuliaBinaryWrappers/RE2_jll.jl/releases/download/RE2-v2022.6.1+0/RE2.v2022.6.1.armv6l-linux-gnueabihf-cxx03.tar.gz"
+[[RE2]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "0a7e1d82bb3c53de59163cbfc8832409dbc33b0e"
+libc = "glibc"
+os = "linux"
+
+    [[RE2.download]]
+    sha256 = "d478ccb19e2f02faef782d6f53e4300ce966dd64b4f21c762ec4d4485db7f026"
+    url = "https://github.com/JuliaBinaryWrappers/RE2_jll.jl/releases/download/RE2-v2022.6.1+0/RE2.v2022.6.1.armv6l-linux-gnueabihf-cxx11.tar.gz"
+[[RE2]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "db9b7fe211c49bc5f717c76464941d0899ca9961"
+libc = "musl"
+os = "linux"
+
+    [[RE2.download]]
+    sha256 = "bf01fa8ca54e542072198e1f0bb30561f069ab6b60c8896a53fa1aa811890cd8"
+    url = "https://github.com/JuliaBinaryWrappers/RE2_jll.jl/releases/download/RE2-v2022.6.1+0/RE2.v2022.6.1.armv6l-linux-musleabihf-cxx03.tar.gz"
+[[RE2]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "5577a936b6ec899e773fae4ab18b26ba0abeaccc"
+libc = "musl"
+os = "linux"
+
+    [[RE2.download]]
+    sha256 = "0453586ce61aea708ed5145e616e83155b7b7f675b45f12d9f5801ea07b60b2a"
+    url = "https://github.com/JuliaBinaryWrappers/RE2_jll.jl/releases/download/RE2-v2022.6.1+0/RE2.v2022.6.1.armv6l-linux-musleabihf-cxx11.tar.gz"
+[[RE2]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "ea6aeb4f68fe3cb9257deaa01c3ec160942fc4dd"
+libc = "glibc"
+os = "linux"
+
+    [[RE2.download]]
+    sha256 = "b886b9d717dd7f435e51bc5f7325ab7c27d7ddb8d9d7af71e82e12bae9ce56cf"
+    url = "https://github.com/JuliaBinaryWrappers/RE2_jll.jl/releases/download/RE2-v2022.6.1+0/RE2.v2022.6.1.armv7l-linux-gnueabihf-cxx03.tar.gz"
+[[RE2]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "2bb908b2a6173cbdf664ac7ad775b862da2d657c"
+libc = "glibc"
+os = "linux"
+
+    [[RE2.download]]
+    sha256 = "52e2b8eca01aff567830d1570ac7fa49ebee384e51a456ca6051555085ea39e6"
+    url = "https://github.com/JuliaBinaryWrappers/RE2_jll.jl/releases/download/RE2-v2022.6.1+0/RE2.v2022.6.1.armv7l-linux-gnueabihf-cxx11.tar.gz"
+[[RE2]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "930a1fdedf16528f52d2820ed732ad2d6975cb44"
+libc = "musl"
+os = "linux"
+
+    [[RE2.download]]
+    sha256 = "d477e78ce3b88cbb9dee19d61a8e0bf71768cb8cc9668948a30f4524a879a29f"
+    url = "https://github.com/JuliaBinaryWrappers/RE2_jll.jl/releases/download/RE2-v2022.6.1+0/RE2.v2022.6.1.armv7l-linux-musleabihf-cxx03.tar.gz"
+[[RE2]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "ffd4fd0a70d1cd8b975c3f09667b0f8e1731ec8a"
+libc = "musl"
+os = "linux"
+
+    [[RE2.download]]
+    sha256 = "7bf320c178cd49f0a5c590147d2b49ebe83a6b95f08d540b056dfb90b9e15d4a"
+    url = "https://github.com/JuliaBinaryWrappers/RE2_jll.jl/releases/download/RE2-v2022.6.1+0/RE2.v2022.6.1.armv7l-linux-musleabihf-cxx11.tar.gz"
+[[RE2]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "1665cb80b617aa40f0fe20bd6f6f42864d593b1d"
+libc = "glibc"
+os = "linux"
+
+    [[RE2.download]]
+    sha256 = "1063facfc65d1b66b5e0cc9f9ac718adc6730ab01a7f3828e077c408ddfec33a"
+    url = "https://github.com/JuliaBinaryWrappers/RE2_jll.jl/releases/download/RE2-v2022.6.1+0/RE2.v2022.6.1.i686-linux-gnu-cxx03.tar.gz"
+[[RE2]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "63a739c940dd65bac692bae6635b2e98ec24e826"
+libc = "glibc"
+os = "linux"
+
+    [[RE2.download]]
+    sha256 = "a300643f0c018290a130b9a3f917e565873bec5c39ebc8f14d56a6e165a22de9"
+    url = "https://github.com/JuliaBinaryWrappers/RE2_jll.jl/releases/download/RE2-v2022.6.1+0/RE2.v2022.6.1.i686-linux-gnu-cxx11.tar.gz"
+[[RE2]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "2b43b26df926b4a3d14b4af12b3bcc204b80a225"
+libc = "musl"
+os = "linux"
+
+    [[RE2.download]]
+    sha256 = "63fbba953a116d70ce91adf4d2346b37336ccf636336646c999b961dc8ef32d4"
+    url = "https://github.com/JuliaBinaryWrappers/RE2_jll.jl/releases/download/RE2-v2022.6.1+0/RE2.v2022.6.1.i686-linux-musl-cxx03.tar.gz"
+[[RE2]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "2d38452ba5a548a910d7afdc37ba5cdf8760951e"
+libc = "musl"
+os = "linux"
+
+    [[RE2.download]]
+    sha256 = "2a04af4fe6a6e590b9c296ce2a63b761762220459cf15cd610a76b99dd06da27"
+    url = "https://github.com/JuliaBinaryWrappers/RE2_jll.jl/releases/download/RE2-v2022.6.1+0/RE2.v2022.6.1.i686-linux-musl-cxx11.tar.gz"
+[[RE2]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "eeadd25a4af212821570730634e9d4df2739a95d"
+os = "windows"
+
+    [[RE2.download]]
+    sha256 = "557e0fb3b3eb7eea0773aabc6f609080fe1bb3bd7e1c64d495d7b4ca21b9b874"
+    url = "https://github.com/JuliaBinaryWrappers/RE2_jll.jl/releases/download/RE2-v2022.6.1+0/RE2.v2022.6.1.i686-w64-mingw32-cxx03.tar.gz"
+[[RE2]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "1aa83eeb1567fa9c6d41a8053637519dcd8749d1"
+os = "windows"
+
+    [[RE2.download]]
+    sha256 = "ee7b713a9f279bb33a36226e0245fcbe5b3d71f776e1ffc72c5c479c6c3ef95e"
+    url = "https://github.com/JuliaBinaryWrappers/RE2_jll.jl/releases/download/RE2-v2022.6.1+0/RE2.v2022.6.1.i686-w64-mingw32-cxx11.tar.gz"
+[[RE2]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "a63a2e587ef0b73fcc8eb5acebfac2f776a7e595"
+libc = "glibc"
+os = "linux"
+
+    [[RE2.download]]
+    sha256 = "24c57dcef46645c7bd73ced371674589dbfbd2f0e1185f8476c1bdfe5e75fd85"
+    url = "https://github.com/JuliaBinaryWrappers/RE2_jll.jl/releases/download/RE2-v2022.6.1+0/RE2.v2022.6.1.powerpc64le-linux-gnu-cxx03.tar.gz"
+[[RE2]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "e65f7fd18d50c8a0b83ac4fa9a3cd2b9689000cb"
+libc = "glibc"
+os = "linux"
+
+    [[RE2.download]]
+    sha256 = "fbb1a7cd3dead42874bd53c352264146cfd09da3f2aec7df882ed5829c3652df"
+    url = "https://github.com/JuliaBinaryWrappers/RE2_jll.jl/releases/download/RE2-v2022.6.1+0/RE2.v2022.6.1.powerpc64le-linux-gnu-cxx11.tar.gz"
+[[RE2]]
+arch = "x86_64"
+git-tree-sha1 = "7f54fe13b0be2eac1986927909a0b7b741161ec4"
+os = "macos"
+
+    [[RE2.download]]
+    sha256 = "6f977342efdf80fd3364ff9ef1ac667c8f18811cc3765d075c878942df9ebff7"
+    url = "https://github.com/JuliaBinaryWrappers/RE2_jll.jl/releases/download/RE2-v2022.6.1+0/RE2.v2022.6.1.x86_64-apple-darwin.tar.gz"
+[[RE2]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "e35a07a488732e8fb598e049c7a7a2bba87830c5"
+libc = "glibc"
+os = "linux"
+
+    [[RE2.download]]
+    sha256 = "7d8c888579cea7fd24729b3173721cde4e3e92aad23691b4775e3795facb7d17"
+    url = "https://github.com/JuliaBinaryWrappers/RE2_jll.jl/releases/download/RE2-v2022.6.1+0/RE2.v2022.6.1.x86_64-linux-gnu-cxx03.tar.gz"
+[[RE2]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "f9e157fbdd48143c7dfc7c6d9cdc49e7dfefadb3"
+libc = "glibc"
+os = "linux"
+
+    [[RE2.download]]
+    sha256 = "3306ec63bf0c154dccd9d09eecf70551daac6c85da80a0c0940e92734da15541"
+    url = "https://github.com/JuliaBinaryWrappers/RE2_jll.jl/releases/download/RE2-v2022.6.1+0/RE2.v2022.6.1.x86_64-linux-gnu-cxx11.tar.gz"
+[[RE2]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "c10c0e58dc94c3beac907861174881b5b5f726e6"
+libc = "musl"
+os = "linux"
+
+    [[RE2.download]]
+    sha256 = "66409c0993c869dc1958d5dc6129578eafdfc4522edf60ce035a3a383c8bea73"
+    url = "https://github.com/JuliaBinaryWrappers/RE2_jll.jl/releases/download/RE2-v2022.6.1+0/RE2.v2022.6.1.x86_64-linux-musl-cxx03.tar.gz"
+[[RE2]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "d6176f102a0104c97dc1e1b4a4add0a36f4d837a"
+libc = "musl"
+os = "linux"
+
+    [[RE2.download]]
+    sha256 = "40bbedd67aa2ea98a2d6dd6bc3004cf294ec8e682964311170bf2ababbfa9cc9"
+    url = "https://github.com/JuliaBinaryWrappers/RE2_jll.jl/releases/download/RE2-v2022.6.1+0/RE2.v2022.6.1.x86_64-linux-musl-cxx11.tar.gz"
+[[RE2]]
+arch = "x86_64"
+git-tree-sha1 = "7e402ce2c5fccc53ed961f0332eac51ae50b1f21"
+os = "freebsd"
+
+    [[RE2.download]]
+    sha256 = "63034ce5dc0bb1206ba4a941825b99aa7db09f3012e3cc342446e6d5c6b97772"
+    url = "https://github.com/JuliaBinaryWrappers/RE2_jll.jl/releases/download/RE2-v2022.6.1+0/RE2.v2022.6.1.x86_64-unknown-freebsd.tar.gz"
+[[RE2]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "47838e4a88ddbb88c83a14dfbef9aee9d6f0283e"
+os = "windows"
+
+    [[RE2.download]]
+    sha256 = "50c8ff9eff464d11fdee68c3b4f170afab6b207174550c3f4c69ed24350c1f9e"
+    url = "https://github.com/JuliaBinaryWrappers/RE2_jll.jl/releases/download/RE2-v2022.6.1+0/RE2.v2022.6.1.x86_64-w64-mingw32-cxx03.tar.gz"
+[[RE2]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "86ee3bd3650c0e7adc49d1f95cf67bb904746962"
+os = "windows"
+
+    [[RE2.download]]
+    sha256 = "fefbf32ed5c48e180d579c4cb16d304191252b5b5380cb2cae51f0373edd1e3c"
+    url = "https://github.com/JuliaBinaryWrappers/RE2_jll.jl/releases/download/RE2-v2022.6.1+0/RE2.v2022.6.1.x86_64-w64-mingw32-cxx11.tar.gz"
